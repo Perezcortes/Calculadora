@@ -31,7 +31,6 @@ Estas tecnologías fueron elegidas por su **simplicidad**, **compatibilidad con 
 
 - Añadir más funciones de cálculo, como **raíces cuadradas**, **porcentajes** o **potencias**. 🔢
 - Implementar un **modo de animación personalizada** para los sprites, con diferentes movimientos y efectos visuales. 🌀
-- **Optimizar el rendimiento** de las animaciones para dispositivos móviles. 📱
 
 ---
 
