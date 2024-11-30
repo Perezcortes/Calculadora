@@ -24,6 +24,7 @@ Estas tecnologías fueron elegidas por su **simplicidad**, **compatibilidad con 
 
 - El cambio entre temas claro y oscuro es **dinámico** y se indica con un botón que cambia su ícono entre **luna** y **sol**. 🌞🌙
 - Si no se ingresa ningún número antes de presionar el botón **igual**, se mostrará el mensaje **"Empty!"**. ❌
+- Si no quieres descargar el codigo puedes probar aqui su funcionalidad: https://perezcortes.github.io/Calculadora/
 
 ---
 
